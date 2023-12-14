@@ -13,6 +13,7 @@ public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) 
     {
         while(root !=NULL)
+            
         {
             if(root->val < p->val && root->val < q->val)
             {
