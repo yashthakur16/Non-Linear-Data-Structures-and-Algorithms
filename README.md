@@ -53,7 +53,7 @@ If you have a suggestion that would make this better, please fork the repository
 
 ## Contact
 
-Yash Thakur(mailto:tyash6843@gmail.com)
+Yash Thakur(tyash6843@gmail.com)
 
 Project Link: [https://github.com/yashthakur16/Non-Linear-Data-Structures-and-Algorithms](https://github.com/yashthakur16/Non-Linear-Data-Structures-and-Algorithms)
 
